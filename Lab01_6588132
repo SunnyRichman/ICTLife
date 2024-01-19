@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Lab01_6588132</title>
+<style>
+    table, tr, th, td{
+        border: 1px solid black;
+    }
+</style>
+</head>
+<body>
+<h1>Raweerot Bhasidhchirapiroch</h1>
+<h5>Address: 999 Phutthamonthon Sai 4 Rd., Salaya, Phutthamonthon, Nakhon Prathom 73130</h5>
+<h5>Email: <a href="mailto:raweerot.bha@student.mahidol.ac.th">raweerot.bha@student.mahidol.ac.th</a></h5>
+<h3>Educational Background</h3>
+  <ul>
+    <li>High school: Sukhondheerawidh School, Nakhon Prathom<br>Major: Math-Sci; GPA: 3.81/4.00; May 2019 - March 2022</li>
+    <li>Faculty of Information Communication and Technology, Mahidol University, Thailand<br>Bachelor of Science (Information Technology); GPA: 3.17; August 2022 - Present</li>
+  </ul>
+<h3>Languages</h3>
+  <ul>
+    <li>Thai: Native speaker</li>
+    <li>English: C1</li>
+    <li>Chinese: Moderate</li>
+  </ul>
+<h3>Technical Skills</h3>
+  <ul>
+    <li>Programming: C, Java, Python</li>
+    <li>Database: Database management, SQL</li>
+  </ul>
+<h3>Experiences/Activities</h3>
+  <ul>
+    <li>STEM CAMP, Swimming and Diving School Cha-Am(2017)</li>
+    <li>STEM CAMP, Swimming and Diving School Cha-Am(2018)</li>
+    <li>STEM CAMP, Sukhondheerawidh School(2020)</li>
+  </ul>
+<table>
+    <tr><th colspan="2">References</th></tr>
+    <tr>
+        <td>Aj.Akara Supratak</td>
+        <td><a href="mailto:akara.sup@mahidol.edu">akara.sup@mahidol.edu</a></td>
+    </tr>
+    <tr>
+        <td>Aj.Siripen Pongpaichet</td>
+        <td><a href="mailto:siripen.pon@mahidol.ac.th">siripen.pon@mahidol.ac.th</a></td>
+    </tr>
+</table>
+</body>
+</html>
